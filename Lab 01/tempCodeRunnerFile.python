@@ -1,0 +1,8 @@
+name = "muaz"
+age = 20
+
+formattedstring = "my name is {} and my age is {}".format(name,age)
+print(formattedstring)
+
+string = f"my name is {name} and my age is {age}"
+print(string)
